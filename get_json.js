@@ -30,7 +30,7 @@
         })
         .catch(function(results) {
           // console.log('getArticles',results);
-          console.error("Error: "results);
+          // console.error("Error: "results);
         });
     }
     // function to get profileId number
