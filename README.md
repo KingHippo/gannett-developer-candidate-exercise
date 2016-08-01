@@ -38,3 +38,9 @@ The goal of this exercise is to deliver a single page of personalized content in
 
 1. Bootstrap - "http://getbootstrap.com/getting-started/"
 2. AngularJS - "https://angularjs.org/"
+
+### Installation
+
+1. Clone or download files to project directory
+2. Open index.html with preferred web browser
+3. Angular and Boostrap Logic delivered  via CDN
