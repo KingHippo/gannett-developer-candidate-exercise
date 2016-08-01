@@ -31,3 +31,13 @@ The goal of this exercise is to deliver a single page of personalized content in
 2. The profile id endpoint referenced above automatically uses a cookie to preserve the profile id across requests.
 3. Both endpoints in the acceptance criteria above support a content type of either "application/json" or "application/javascript" (JSONP). The JSONP callback query string parameter is "callback".
 4. The exercise is relatively short to allow time for ample polish. Consider the implementation's: scalability, test coverage, readability, etc.
+
+## Solution
+
+### Dependencies
+
+1. NPM - "https://www.npmjs.com/"
+2. Yeoman Generator - "http://yeoman.io/"
+3. Foundation 5 Generator - "https://github.com/juliancwirko/generator-zf5"
+4. Grunt - "http://gruntjs.com/"
+5. AngularJS - "https://angularjs.org/"
