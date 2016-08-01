@@ -36,8 +36,5 @@ The goal of this exercise is to deliver a single page of personalized content in
 
 ### Dependencies
 
-1. NPM - "https://www.npmjs.com/"
-2. Yeoman Generator - "http://yeoman.io/"
-3. Foundation 5 Generator - "https://github.com/juliancwirko/generator-zf5"
-4. Grunt - "http://gruntjs.com/"
-5. AngularJS - "https://angularjs.org/"
+1. Bootstrap - "http://getbootstrap.com/getting-started/"
+2. AngularJS - "https://angularjs.org/"
