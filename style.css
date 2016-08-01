@@ -1,0 +1,44 @@
+/* all app scss styles here */
+h1 {
+  color: #FF3B77;
+  padding-left: 1em;
+}
+
+h2 {
+  padding: .5em;
+}
+
+p {
+  padding: 0 .5em;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+.rare {
+  color: #DC143C;
+}
+
+.well {
+  color: #8B4513;
+}
+
+.header {
+  background-color: #52656B;
+  border-bottom-width: .2em;
+  border-bottom-style: solid;
+  border-bottom-color: #CDFF00;
+  border-top-width: .2em;
+  border-top-style: solid;
+  border-top-color: #CDFF00;
+}
+
+.article {
+  background-color: #B8B89F;
+  overflow: hidden;
+  padding-bottom: .5em;
+  border-bottom-style: solid;
+  border-bottom-color: #CDFF00;
+}
